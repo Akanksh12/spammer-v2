@@ -1,2 +1,2 @@
-# spammer-v2
-spammer made with python 
+#spammer v2!
+how to use: 
